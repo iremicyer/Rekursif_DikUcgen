@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\bin\Debug\netcoreapp3.1\DikUcgen_Rekursif.exe
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\bin\Debug\netcoreapp3.1\DikUcgen_Rekursif.deps.json
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\bin\Debug\netcoreapp3.1\DikUcgen_Rekursif.runtimeconfig.json
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\bin\Debug\netcoreapp3.1\DikUcgen_Rekursif.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\bin\Debug\netcoreapp3.1\DikUcgen_Rekursif.dll
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\bin\Debug\netcoreapp3.1\DikUcgen_Rekursif.pdb
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\obj\Debug\netcoreapp3.1\DikUcgen_Rekursif.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\obj\Debug\netcoreapp3.1\DikUcgen_Rekursif.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\obj\Debug\netcoreapp3.1\DikUcgen_Rekursif.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\obj\Debug\netcoreapp3.1\DikUcgen_Rekursif.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\obj\Debug\netcoreapp3.1\DikUcgen_Rekursif.dll
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\obj\Debug\netcoreapp3.1\DikUcgen_Rekursif.pdb
+C:\Users\Administrator\source\repos\DikUcgen_Rekursif\DikUcgen_Rekursif\obj\Debug\netcoreapp3.1\DikUcgen_Rekursif.genruntimeconfig.cache
